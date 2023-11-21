@@ -1,1 +1,4 @@
 /saved_models
+/.cache
+/.ipynb_checkpoints
+submission*
